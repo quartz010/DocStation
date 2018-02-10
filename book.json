@@ -1,0 +1,109 @@
+{
+    "root": "./",
+    "title": "区块链资料站",
+    "description": "整理区块链相关的好资源, 文章等",
+    "author": "R4y",
+
+    "gitbook": ">= 3.0.0",
+
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "博客主页": "blog.diglp.xyz"
+        }
+    },
+
+    "plugins": [
+        "github",
+        "donate",
+        "splitter",
+        "anchors",
+        "anchor-navigation-ex",
+        "-sharing",
+        "sharing-plus",
+        "-highlight",
+        "prism",
+        "sitemap-general",
+        "fontsettings",
+        "tbfed-pagefooter",
+        "cnzz",
+        "favicon"
+    ],
+
+    "pluginsConfig": {
+        "sharing": {
+            "douban": false,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": false,
+            "qzone": false,
+            "stumbleupon": false,
+            "twitter": true,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": false,
+            "all": [
+                "weibo", "twitter"
+            ]
+        },
+        "github": {
+            "url": "https://github.com/quartz010"
+        },
+        "donate": {
+            "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
+            "title": "你的赞赏，是我持续输出的动力",
+            "button": "打赏",
+            "wechatText": "微信打赏"
+        },
+        "sitemap-general": {
+            "prefix": "http://wiki.learnblockchain.cn/"
+        },
+        "anchor-navigation-ex": {
+            "associatedWithSummary": false,
+            "showLevel": true,
+            "multipleH1": true,
+            "mode": "float",
+
+            "pageTop": {
+                "showLevelIcon": false,
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right"
+            }
+        },
+        "theme-default": {
+            "showLevel": false
+        },
+        "fontsettings": {
+            "theme": "white",
+            "family": "serif",
+            "size": 2
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-tomorrow.css"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": " &copy 2018 R4y",
+            "modify_label": "File Modified：",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+        "cnzz": {
+            "visible": true,
+            "style": "0",
+            "siteid": "1265946080"
+        },
+        "favicon": {
+            "shortcut": "images/favicon.ico",
+            "bookmark": "images/favicon.ico"
+        }
+    }
+}
