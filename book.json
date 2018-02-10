@@ -9,11 +9,12 @@
     "language": "zh-hans",
     "links": {
         "sidebar": {
-            "博客主页": "blog.diglp.xyz"
+            "博客主页": "http://blog.diglp.xyz"
         }
     },
 
     "plugins": [
+        "emphasize",
         "github",
         "donate",
         "splitter",
