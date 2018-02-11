@@ -58,7 +58,7 @@
             "url": "https://github.com/quartz010"
         },
         "donate": {
-            "wechat": "http://learnblockchain.cn/images/qr_pay.jpg",
+            "wechat": "https://raw.githubusercontent.com/quartz010/quartz010.github.io/master/images/donated.png",
             "title": "你的赞赏，是我持续输出的动力",
             "button": "打赏",
             "wechatText": "微信打赏"
