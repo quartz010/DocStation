@@ -4,4 +4,5 @@
 <url> <loc>http://wiki.learnblockchain.cn/contents.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://wiki.learnblockchain.cn/en_zh.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 <url> <loc>http://wiki.learnblockchain.cn/FQA.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>http://wiki.learnblockchain.cn/articles.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
 </urlset>
