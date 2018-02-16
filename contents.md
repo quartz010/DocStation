@@ -7,3 +7,7 @@
 ## 以太坊
 
 * [以太坊FQA](FQA.md)
+
+## 其他
+
+* [博客推荐](friend-link.md)
