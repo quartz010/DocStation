@@ -5,6 +5,7 @@
 - [以太坊零地址](https://ethereum.stackexchange.com/questions/6756/ways-to-see-if-address-is-empty)
 - [什么是图灵完备](https://www.zhihu.com/question/20115374)
 - [以太坊上的随机数](https://ethereum.stackexchange.com/questions/191/how-can-i-securely-generate-a-random-number-in-my-smart-contract)
+- [继续看看智能合约安全](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
 
 ### JavaScript
 
@@ -33,3 +34,5 @@
 - [Admin5](http://www.admin5.com)
 - [猴子定理](https://baike.baidu.com/item/猴子定律/6268365?fr=aladdin)
 - [GitBook手册](http://www.chengweiyang.cn/gitbook/gitbook.com/config/github.html)
+- [linus's Word](https://lkml.org/lkml/2012/12/23/75)
+- [linus's Word 2](http://www.gelato.unsw.edu.au/archives/git/0506/5299.html)
