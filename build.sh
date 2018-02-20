@@ -2,11 +2,11 @@
 finish=0
 echo "building... wait a while"
 # gitbook build ./ docs > build.log 
-sleep 2  && finish=1
+sleep 2  && finish=1 &
 
 b=''
 
-for ((i=0;$finish!=1;i+=2))
+for ((i=0;"$finish" -ne "1";i+=2))
 	do
         	printf "progress:[%-50s]%d%%\r" $b $i
 	        sleep 0.1
