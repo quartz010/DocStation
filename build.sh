@@ -1,8 +1,8 @@
 #!/bin/bash
-finish=1
+finish=0
 echo "building... wait a while"
 # gitbook build ./ docs > build.log 
-sleep 2  && finish=1 & 
+sleep 2  && finish=1
 
 b=''
 
