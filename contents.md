@@ -11,3 +11,4 @@
 ## 其他
 
 * [博客推荐](friend-link.md)
+* [好文收集](articles.md)
