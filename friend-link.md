@@ -4,6 +4,7 @@
 * [TRYBLOCKCHAIN 区块链技术博客](http://www.tryblockchain.org)	很棒的Solidity
 * [黎跃春区块链博客](http://liyuechun.org/#blog)
 * [BoB Jiang](https://www.bobjiang.com)
+* [汪晓明对区块链、以太坊的思考](http://wangxiaoming.com/blog/2016/07/15/e19/)
 * [鱼儿的博客](https://yuerblog.cc)
 * [Intermediate Representation](http://ice1000.org)
 * [币问社区](https://www.bitask.org)
