@@ -8,10 +8,13 @@
 - [继续看看智能合约安全](https://blog.zeppelin.solutions/onward-with-ethereum-smart-contract-security-97a827e47702)
 - [以太坊基金会地址](https://blockchain.info/address/36PrZ1KHYMpqSyAQXSG8VwbUiq2EogxLo2) (有钱就是可以为所欲为)
 - [加密小僵尸Loom](https://mp.weixin.qq.com/s/HhZwZxVBpVg2RNpYRc0gCg)
+- [以太坊智能合约编程之菜鸟教程
+](http://ethfans.org/posts/101-noob-intro)
 
 #### 值得参考的合约
 [TokenCrowdSale](https://etherscan.io/address/0x275b69aa7c8c1d648a0557656bce1c286e69a29d#code)
-
+### 工具类
+[星火节点](https://stats.ethfans.org)
 ### JavaScript
 
 - [95 个超实用的 JS 代码片](http://www.lisa33xiaoq.net/?p=928)
