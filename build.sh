@@ -9,7 +9,7 @@ b=''
 for ((i=0;i <= 100 ;i+=2))
 	do
         	printf "progress:[%-50s]%d%%\r" $b $i
-	        sleep 0.1
+	        sleep 0.05
         	b=#$b
 	done
 echo
