@@ -7,6 +7,8 @@
 
 ## 区块链
 
+* [参考资料库](blockChain_doc.md)
+
 ### 以太坊 ###
 * [以太坊FQA](FQA.md)
 * [术语中英对照表](en_zh.md)
@@ -16,7 +18,7 @@
 * [Solidity 资料](solidity_doc.md)
 * [Web3J 资料](web3j_doc.md)
 * [Node.js 资料](NodeJs_doc.md)
-
+* [参考资料库](dev_doc.md)
 ## Others
 
 * [文章分享](articles.md)
